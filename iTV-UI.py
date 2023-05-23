@@ -48,7 +48,7 @@ def main():
         
         # Display the loaded content
         st.write("Loading complete! Here's the content.")
-        st.image("loaded_image.jpg", caption="Loaded Image")
+        st.image("loading_image-min.jpg", caption="Loaded Image")
         
 
 if __name__ == "__main__":
