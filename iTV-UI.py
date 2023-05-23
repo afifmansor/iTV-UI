@@ -41,7 +41,7 @@ def main():
             )
             
             # Sleep for a short duration to simulate loading time
-            time.sleep(0.01)
+            time.sleep(0.5)
         
         # Clear loading interface
         loading_placeholder.empty()
