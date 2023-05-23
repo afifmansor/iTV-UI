@@ -7,7 +7,7 @@ def main():
         """
         <style>
         .reportview-container {
-            background: url('background_image.jpg');
+            background: url('loading_image-min.jpg');
             background-size: cover;
         }
         </style>
